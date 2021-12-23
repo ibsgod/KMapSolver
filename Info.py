@@ -1,0 +1,11 @@
+selected = None
+xoffset = 0
+yoffset = 0
+dragging = False
+wiring = False
+wirestart = None
+wirestarter = None
+wires = []
+gates = []
+inp = []
+out = []
